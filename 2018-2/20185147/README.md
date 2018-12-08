@@ -8,3 +8,5 @@
   그들이 배우지 못한 것은 아니다. 단지 난 당연하지만 너무 오래된 기억이기 때문에 헷갈리고 잘못된 발언을 하는거라고 믿는다.
   그래서 간편한 스마트폰으로 나 자신이 현재 어느정도의 기초상식을 잊지않고 알고 있는지 시험해 볼 수 있는 앱을 만들고 싶어졌다.
   ***
++ 앱 실행 영상
+  - [youtube](https://www.youtube.com/watch?v=EpyAEJtgaVs&index=2&list=PLL_Ku1SbCJyyMU4wbo2c0GvzqMUHQg_mS)
